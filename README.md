@@ -48,6 +48,3 @@ This repo is the **server side** of that system, plus a software simulator of th
 │       @Version on Account = optimistic locking (defense in depth)       │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
-
-
-Demo code, no license. Use it however you want for learning.
